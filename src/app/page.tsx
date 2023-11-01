@@ -26,7 +26,21 @@ export default function Home() {
           <AiFillYoutube/>
         </div>
         <div className='h-40 w-full bg-red-400'>Image</div>
-
+      </section>
+      {/* netx section */}
+      <section>
+        <div>
+          <h3 className='text-3xl py-1'>Services I offer</h3>
+          <p className='text-md py-5 leading-8 text-gray-800'>Freelancer providing services for design and development needs. Let's get cracking.Freelancer providing services for design and development needs. Let's get cracking. <span className='text-teal-500'>Some highlighted text</span> and then more text here to fill</p>
+          <p className='text-md py-5 leading-8 text-gray-800'>Freelancer providing services for design and development needs. Let's get cracking.Freelancer providing services for design and development needs. Let's get cracking. and then more text here to fill</p>
+        </div>
+        <div>
+        <div className='h-40 w-full bg-red-400'>
+          
+         <span>Image need to put in public and then import as per the icons</span> 
+        
+        </div>
+        </div>
       </section>
     </main>
   )
